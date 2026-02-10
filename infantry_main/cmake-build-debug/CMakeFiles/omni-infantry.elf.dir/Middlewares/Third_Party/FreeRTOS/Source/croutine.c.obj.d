@@ -1,0 +1,20 @@
+CMakeFiles/omni-infantry.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\croutine.c \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ E:/CLion2024/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ E:\CLionProject\infantry_Hanjiang-main\Core\Inc/FreeRTOSConfig.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ E:\CLionProject\infantry_Hanjiang-main\Middlewares\Third_Party\FreeRTOS\Source\include/croutine.h

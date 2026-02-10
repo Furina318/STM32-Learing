@@ -1,0 +1,5 @@
+"E:\CLion2024\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S E:\CLionProject\infantry_Hanjiang-main -B E:\CLionProject\infantry_Hanjiang-main\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/CLionProject/infantry_Hanjiang-main/cmake-build-debug
